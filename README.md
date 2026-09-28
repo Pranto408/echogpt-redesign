@@ -3,9 +3,7 @@
 A redesigned front-end for EchoGPT: a landing page, chat interface, settings, and
 auth screens, built with Next.js 14 (App Router), TypeScript, and Tailwind CSS.
 
-> Note on scope: echogpt.live is a client-rendered app — its real UI was
-> shared as screenshots partway through this build, so the app shell (sidebar
-> nav, home screen, sign-in card) mirrors that reference. All chat data here
+> Note on scope: echogpt.live is a client-rendered app All chat data here
 > is local mock/demo data — there's no backend.
 
 ## Getting started
